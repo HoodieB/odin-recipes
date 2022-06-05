@@ -2,7 +2,7 @@
 <h>README</h>
 <p>Hi
 </p>
-<li>Protein is great
+<li>This is a dummy recipe page!
 
 </li>
 
